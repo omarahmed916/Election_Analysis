@@ -28,7 +28,8 @@ The analysis of the election:
       * TOTAL VOTES= 369,711
 
 * Largest county was Denver 306,055 votes. 
- <img width="292" alt="Code_Output" src="https://user-images.githubusercontent.com/90435301/136634526-b873d829-2de4-404b-8458-e34ea97d7ab6.png">
+ <img width="285" alt="code output" src="https://user-images.githubusercontent.com/90435301/136634939-cfa02c07-dace-4887-81cc-17fef6c37796.png">
+
  
 
 
